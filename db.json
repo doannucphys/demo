@@ -1,1 +1,14 @@
-
+{
+  "questions": [
+    {
+      "text": "what is the tree color",
+      "answer_options": ["red", "green", "blue"],
+      "response": 1
+    },
+     {
+      "text": "what is the sun color",
+      "answer_options": ["yellow", "green", "blue"],
+      "response": 0
+    }
+  ]
+}
